@@ -10,15 +10,21 @@ A map editor for the game StarCraft to make easy and fast to create a kind of UM
 
 @ ProductName : Less.Project.BoundEditorLS <br/>
 
-@ Live Link : https://bound.devcos.site/BoundEditorLS/releases/v0.16.1/ <br/>
+@ Live Link (Stable) : https://bound.devcos.site/BoundEditorLS/releases/v0.16.1/ <br/>
 
-@ Version : 0.16.1 <br/>
+@ Live Link (Latest) : https://bound.devcos.site/BoundEditorLS/releases/v0.17.0/ <br/>
+
+@ Version : 0.17.0 <br/>
 
 @ License : Currently Undecided (현재 미정) <br/><br/>
 
 # Version History
 
-@ 0.16.1 (2020-06-18, Latest) <br/>
+@ 0.17.0 (2020-11-01, Latest) <br/>
+
+- EUD 터보 설정 기능 추가 (beta) <br/><br/>
+
+@ 0.16.1 (2020-06-18) <br/>
 
 - 기타 - 로케이션 레이블 헤더 0 붙이기 기능의 기본값을 체크 상태로 변경 (원래대로 복구시킨 것) <br/><br/>
 
